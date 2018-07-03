@@ -1,0 +1,13 @@
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\02.VilianNames.deps.json
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\02.VilianNames.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\02.VilianNames.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\02.VilianNames.dll
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\02.VilianNames.pdb
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\01.InitialSetUp.dll
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\bin\Debug\netcoreapp2.0\01.InitialSetUp.pdb
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.dll
+C:\Users\pmyor\Source\Repos\DB-Intro\02.VilianNames\obj\Debug\netcoreapp2.0\02.VilianNames.pdb

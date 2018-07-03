@@ -1,0 +1,13 @@
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\Users\pmyor\Downloads\Databases Advanced - Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
