@@ -8,7 +8,7 @@ namespace MiniORM.App
     {
         static void Main(string[] args)
         {
-            var connectingString = @"Server=DESKTOP-5C8NCTB\SQLEXPRESS;Database=MiniORM;Integrated Security=true";
+            var connectingString = @"Server=.\SQLEXPRESS;Database=MiniORM;Integrated Security=true";
 
             var context = new SoftUniDbContext(connectingString);
 
