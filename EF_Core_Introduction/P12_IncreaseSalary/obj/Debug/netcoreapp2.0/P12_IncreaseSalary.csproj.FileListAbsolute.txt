@@ -1,0 +1,13 @@
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P12_IncreaseSalary.deps.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P12_IncreaseSalary.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P12_IncreaseSalary.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P12_IncreaseSalary.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P12_IncreaseSalary.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P12_IncreaseSalary\obj\Debug\netcoreapp2.0\P12_IncreaseSalary.pdb

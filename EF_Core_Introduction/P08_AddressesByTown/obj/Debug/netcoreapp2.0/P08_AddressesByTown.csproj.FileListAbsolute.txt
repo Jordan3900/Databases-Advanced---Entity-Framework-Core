@@ -1,0 +1,13 @@
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P08_AddressesByTown.deps.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P08_AddressesByTown.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P08_AddressesByTown.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P08_AddressesByTown.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P08_AddressesByTown.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P08_AddressesByTown\obj\Debug\netcoreapp2.0\P08_AddressesByTown.pdb

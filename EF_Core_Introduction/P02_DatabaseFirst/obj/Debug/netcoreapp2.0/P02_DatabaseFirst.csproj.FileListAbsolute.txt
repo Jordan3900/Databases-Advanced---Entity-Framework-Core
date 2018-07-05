@@ -1,0 +1,11 @@
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.deps.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb

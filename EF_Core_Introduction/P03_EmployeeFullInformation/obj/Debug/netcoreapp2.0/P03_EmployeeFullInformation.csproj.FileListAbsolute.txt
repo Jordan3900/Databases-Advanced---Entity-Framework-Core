@@ -1,0 +1,13 @@
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeeFullInformation.deps.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeeFullInformation.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeeFullInformation.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeeFullInformation.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P03_EmployeeFullInformation.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P03_EmployeeFullInformation\obj\Debug\netcoreapp2.0\P03_EmployeeFullInformation.pdb

@@ -1,0 +1,13 @@
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P14_DeleteProjectById.deps.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P14_DeleteProjectById.runtimeconfig.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P14_DeleteProjectById.runtimeconfig.dev.json
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P14_DeleteProjectById.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P14_DeleteProjectById.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.AssemblyInfoInputs.cache
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.AssemblyInfo.cs
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.dll
+C:\Users\pmyor\Source\Repos\EF_Core_Introduction\P14_DeleteProjectById\obj\Debug\netcoreapp2.0\P14_DeleteProjectById.pdb
