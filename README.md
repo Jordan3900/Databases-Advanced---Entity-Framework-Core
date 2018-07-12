@@ -16,3 +16,4 @@ This is the system in which I'm submiting and testing the exercises - https://ju
 
 ## Exercises.
 1. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/EXERCISE%20FETCHING%20RESULTSETS%20WITH%20ADO.NET"> EXERCISE: FETCHING RESULTSETS WITH ADO.NET</a> 
+2. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/MiniORM"> EXERCISE: ORM FUNDAMENTALS</a> 
