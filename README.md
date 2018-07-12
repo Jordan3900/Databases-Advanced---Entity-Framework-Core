@@ -1,4 +1,3 @@
-# Databases-Advanced---Entity-Framework-Core
 Databases Advanced - Entity Framework Core
 *<p align="center"> Databases-Advanced---Entity-Framework-Core---2018<p>
 <a href="https://softuni.bg/trainings/1972/databases-advanced-entity-framework-june-2018">  ![SoftUni logo][logo] <a/>
