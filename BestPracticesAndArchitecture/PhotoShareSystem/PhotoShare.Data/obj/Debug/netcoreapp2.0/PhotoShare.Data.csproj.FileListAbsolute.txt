@@ -1,0 +1,14 @@
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.json
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.dev.json
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojAssemblyReference.cache
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CopyComplete
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb
