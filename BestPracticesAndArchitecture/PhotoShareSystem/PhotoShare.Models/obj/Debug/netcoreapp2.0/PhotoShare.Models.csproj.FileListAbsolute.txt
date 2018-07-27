@@ -1,9 +1,0 @@
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojAssemblyReference.cache
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
-C:\Users\pmyor\Downloads\Database-Advance-Entity-FrameworkCore\PhotoShareSystem\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb
