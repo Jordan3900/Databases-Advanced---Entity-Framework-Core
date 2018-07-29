@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-16"?>
+<products>
+  <Product name="Budpak Hemorrhoid Anesthetic" price="1499.29" buyer="Patricia Fuller" />
+  <Product name="Alcohol Free Antiseptic" price="1486.07" buyer="Cunningham" />
+  <Product name="Etoposide" price="1483.96" buyer="Billy Parker" />
+  <Product name="cough and sore throat" price="1482.68" buyer="Diana Harvey" />
+  <Product name="Glycopyrrolate" price="1471.43" buyer="Ann Stevens" />
+  <Product name="Treatment Set TS336667" price="1466.47" buyer="Emily Parker" />
+  <Product name="Amitriptyline Hydrochloride" price="1453.96" buyer="Patricia Cooper" />
+  <Product name="Acid Reducer" price="1443.51" buyer="Eugene Stewart" />
+  <Product name="Metoprolol Tartrate" price="1405.74" buyer="Jonathan Rodriguez" />
+  <Product name="Wintergreen Isopropyl Alcohol" price="1397.57" buyer="Jacqueline Perez" />
+  <Product name="Fair Foundation SPF 15" price="1394.24" buyer="Patricia Cooper" />
+  <Product name="Warfarin Sodium" price="1379.79" buyer="Diana Harvey" />
+  <Product name="Nevirapine" price="1374.72" buyer="Patricia Cooper" />
+  <Product name="Finasteride" price="1374.01" buyer="Kathy Gilbert" />
+  <Product name="EMEND" price="1365.51" buyer="Christina Patterson" />
+  <Product name="PCA SKIN ACNE" price="1356.22" buyer="Thomas Snyder" />
+  <Product name="MEDICATED DANDRUFF" price="1351.02" buyer="Kathy Gilbert" />
+  <Product name="Leg Cramp Relief" price="1345.69" buyer="Joshua Murray" />
+  <Product name="Labetalol Hydrochloride" price="1345.11" buyer="Anna Parker" />
+  <Product name="Archangelica Eucalyptus" price="1334.91" buyer="Cunningham" />
+  <Product name="Fosphenytoin Sodium" price="1334.06" buyer="Patricia Cooper" />
+  <Product name="Ibuprofen" price="1305.96" buyer="Billy Parker" />
+  <Product name="Cefadroxil" price="1302.20" buyer="Patricia Cooper" />
+  <Product name="MEDI-FIRST Non-Aspirin" price="1301.28" buyer="Thompson" />
+  <Product name="VITALUMIERE AQUA" price="1293.09" buyer="Amanda Frazier" />
+  <Product name="DIVALPROEX SODIUM" price="1287.03" buyer="Eugene Stewart" />
+  <Product name="Prednisone" price="1285.99" buyer="Betty Ward" />
+  <Product name="SUMATRIPTAN SUCCINATE" price="1265.94" buyer="Christine Gomez" />
+  <Product name="Topex" price="1258.49" buyer="Betty Ward" />
+  <Product name="XtraCare Foam Antibacterial Hand Wash" price="1251.97" buyer="Cunningham" />
+  <Product name="Ondansetron" price="1249.76" buyer="Jonathan Rodriguez" />
+  <Product name="Oxygen" price="1242.92" buyer="Joshua Murray" />
+  <Product name="Aspergillus repens" price="1231.42" buyer="Jean Henry" />
+  <Product name="Topical 60 Sec Sodium Fluoride" price="1228.84" buyer="Kathy Gilbert" />
+  <Product name="Nighttime Sleep Aid" price="1217.11" buyer="Joshua Murray" />
+  <Product name="Benazepril Hydrochloride and Hydrochlorothiazide" price="1187.27" buyer="Jean Henry" />
+  <Product name="PAMO Kill Natural" price="1181.06" buyer="Marie Williamson" />
+  <Product name="leader pain reliever" price="1179.79" buyer="Jeremy Woods" />
+  <Product name="Americaine" price="1165.75" buyer="Patricia Fuller" />
+  <Product name="Baza Antifungal" price="1162.34" buyer="Sarah Day" />
+  <Product name="Pollens - Trees, Birch Mix" price="1153.54" buyer="Kathy Gilbert" />
+  <Product name="Flumazenil" price="1151.37" buyer="Jean Henry" />
+  <Product name="DIPYRIDAMOLE" price="1150.67" buyer="Sarah Day" />
+  <Product name="Lorazepam" price="1134.96" buyer="Billy Parker" />
+  <Product name="PREMIER VALUE ALLERGY" price="1127.61" buyer="Jennifer Riley" />
+  <Product name="Head and Shoulders Conditioner" price="1099.59" buyer="Thomas Snyder" />
+  <Product name="ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20" price="1097.60" buyer="Jeremy Woods" />
+  <Product name="XANTHIUM STRUMARIUM VAR CANADENSE POLLEN" price="1091.38" buyer="Christina Patterson" />
+  <Product name="Ibuprofen" price="1088.04" buyer="Betty Ward" />
+  <Product name="up and up temporary minor arthritis pain relief" price="1085.78" buyer="Jean Henry" />
+  <Product name="LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15" price="1069.43" buyer="Anna Parker" />
+  <Product name="Acetic Acid" price="1060.43" buyer="Thompson" />
+  <Product name="Ringers" price="1054.37" buyer="Fred Barnes" />
+  <Product name="Aspen" price="1046.46" buyer="Chris Mitchell" />
+  <Product name="CVS Therapeutic Menthol Pain Reliever" price="1033.42" buyer="Jacqueline Perez" />
+  <Product name="Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride" price="1028.27" buyer="Sarah Day" />
+  <Product name="SEPHORA Acne-Fighting Mattifying Moisturizer" price="1019.28" buyer="Chris Mitchell" />
+  <Product name="Butalbital, Aspirin and Caffeine" price="1010.98" buyer="Joshua Murray" />
+  <Product name="TYLENOL COLD MULTI-SYMPTOM DAYTIME" price="1010.81" buyer="Jean Henry" />
+  <Product name="Smooth texture Orange flavor" price="976.65" buyer="Sarah Day" />
+  <Product name="Dawn Ultra Antibacterial Hand" price="969.86" buyer="Betty Ward" />
+  <Product name="Clearskin" price="968.59" buyer="Jeremy Woods" />
+  <Product name="NEO-POLY-BAC HYDRO" price="967.32" buyer="Billy Parker" />
+  <Product name="Homeopathic Rheumatism" price="967.08" buyer="Arthur Reynolds" />
+  <Product name="Metformin Hydrochloride" price="953.99" buyer="Betty Ward" />
+  <Product name="Glipizide and Metformin Hydrochloride" price="953.60" buyer="Bonnie Fox" />
+  <Product name="pain relief" price="938.23" buyer="Betty Ward" />
+  <Product name="Spironolactone" price="933.69" buyer="Jeremy Woods" />
+  <Product name="Care One Hemorrhoidal" price="932.18" buyer="Anna Parker" />
+  <Product name="Ranitidine" price="926.64" buyer="Joshua Murray" />
+  <Product name="Aspirin" price="925.45" buyer="Jonathan Rodriguez" />
+  <Product name="EPZICOM" price="895.65" buyer="Kathy Gilbert" />
+  <Product name="Levothyroxine Sodium" price="885.86" buyer="Arthur Reynolds" />
+  <Product name="ESIKA" price="879.37" buyer="Thompson" />
+  <Product name="Shopko Lip Treatment" price="861.42" buyer="Arthur Reynolds" />
+  <Product name="RESCRIPTOR" price="850.52" buyer="Christina Patterson" />
+  <Product name="Aquafresh" price="849.93" buyer="Sarah Day" />
+  <Product name="IOPE SUPER VITAL" price="824.68" buyer="Bonnie Fox" />
+  <Product name="LV-FX" price="820.87" buyer="Patricia Fuller" />
+  <Product name="Azithromycin" price="813.87" buyer="Sarah Day" />
+  <Product name="Clarins Paris Skin Illusion - 114 cappuccino" price="811.42" buyer="Kathy Gilbert" />
+  <Product name="Meloxicam" price="809.18" buyer="Fred Barnes" />
+  <Product name="Naproxen" price="807.22" buyer="Patricia Fuller" />
+  <Product name="Pollens - Weeds and Garden Plants, Nettle Urtica dioica" price="782.77" buyer="Jean Henry" />
+  <Product name="Warfarin Sodium" price="770.05" buyer="Anna Parker" />
+  <Product name="GOONG SECRET CALMING BATH" price="742.47" buyer="Joshua Murray" />
+  <Product name="Pleo Lat" price="720.08" buyer="Billy Parker" />
+  <Product name="Prostate" price="716.05" buyer="Joshua Murray" />
+  <Product name="CALMING DIAPER RASH" price="700.92" buyer="Betty Ward" />
+  <Product name="CLARINS Ever Matte SPF 15 - 105 Nude" price="696.06" buyer="Arthur Reynolds" />
+  <Product name="PRIMAXIN" price="686.66" buyer="Chris Mitchell" />
+  <Product name="Ampicillin" price="674.63" buyer="Emily Parker" />
+  <Product name="ENBREL" price="673.97" buyer="Patricia Cooper" />
+  <Product name="Amitiza" price="666.58" buyer="Chris Mitchell" />
+  <Product name="Strattera" price="658.54" buyer="Jean Henry" />
+  <Product name="Childrens Allegra Allergy" price="650.97" buyer="Jonathan Rodriguez" />
+  <Product name="Imipramine Hydrochloride" price="648.69" buyer="Paula Hill" />
+  <Product name="AVANDAMET" price="632.08" buyer="Cunningham" />
+  <Product name="ziprasidone hydrochloride" price="628.66" buyer="Chris Mitchell" />
+  <Product name="Foaming Hand Sanitizer" price="624.72" buyer="Marie Williamson" />
+  <Product name="AMARANTHUS PALMERI POLLEN" price="623.16" buyer="Thompson" />
+  <Product name="Glipizide" price="621.78" buyer="Jean Henry" />
+  <Product name="No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory" price="616.19" buyer="Joshua Murray" />
+  <Product name="Pleo Ginkgo" price="613.65" buyer="Patricia Cooper" />
+  <Product name="Ketorolac Tromethamine" price="608.18" buyer="Patricia Fuller" />
+  <Product name="Agaricus Equisetum Special Order" price="585.93" buyer="Ann Stevens" />
+  <Product name="AIR" price="581.69" buyer="Bonnie Fox" />
+  <Product name="Topiramate" price="578.77" buyer="Chris Mitchell" />
+  <Product name="Echinacea Quartz Gum Support" price="570.08" buyer="Cunningham" />
+  <Product name="PLANTAGO LANCEOLATA POLLEN" price="561.68" buyer="Amanda Frazier" />
+  <Product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" buyer="Diana Harvey" />
+  <Product name="TERSI" price="554.91" buyer="Patricia Cooper" />
+  <Product name="Prednisone" price="550.72" buyer="Jean Henry" />
+  <Product name="Propranolol Hydrochloride" price="546.95" buyer="Sarah Day" />
+  <Product name="Extra Strength Pain Reliever PM" price="542.72" buyer="Arthur Reynolds" />
+  <Product name="equaline" price="520.45" buyer="Christine Gomez" />
+  <Product name="Parsley" price="519.06" buyer="Betty Ward" />
+  <Product name="Allopurinol" price="518.50" buyer="Amanda Frazier" />
+  <Product name="TRAMADOL HYDROCHLORIDE" price="516.48" buyer="Betty Ward" />
+  <Product name="Peter Island Continous sunscreen kids" price="471.30" buyer="Jacqueline Perez" />
+  <Product name="Protonix" price="466.70" buyer="Bonnie Fox" />
+  <Product name="CARBIDOPA AND LEVODOPA" price="441.64" buyer="Jacqueline Perez" />
+  <Product name="Gehwol med Lipidro" price="421.24" buyer="Eugene Stewart" />
+  <Product name="Eszopiclone" price="405.03" buyer="Christine Gomez" />
+  <Product name="Etomidate" price="393.94" buyer="Christine Gomez" />
+  <Product name="Buprenorphine hydrochloride" price="391.05" buyer="Amanda Frazier" />
+  <Product name="Fluoxetine" price="385.37" buyer="Jennifer Riley" />
+  <Product name="Enchanted Moments Mistletoe Kisses Hand Sanitizer" price="384.99" buyer="Bonnie Fox" />
+  <Product name="ISOPROPYL ALCOHOL" price="339.48" buyer="Paula Hill" />
+  <Product name="Allopurinol" price="336.81" buyer="Billy Parker" />
+  <Product name="Air" price="331.53" buyer="Billy Parker" />
+  <Product name="ANXIETY/STRESS RELIEF" price="324.66" buyer="Arthur Reynolds" />
+  <Product name="Leflunomide" price="312.85" buyer="Marie Williamson" />
+  <Product name="Pioglitazone" price="306.56" buyer="Kathy Gilbert" />
+  <Product name="PANTOPRAZOLE SODIUM" price="293.89" buyer="Marie Williamson" />
+  <Product name="Buprenorphine hydrochloride and naloxone hydrochloride dihydrate" price="293.33" buyer="Eugene Stewart" />
+  <Product name="PredniSONE" price="286.43" buyer="Jean Henry" />
+  <Product name="ROPINIROLE HYDROCHLORIDE" price="266.44" buyer="Diana Harvey" />
+  <Product name="Cold and Cough" price="218.14" buyer="Ann Stevens" />
+  <Product name="ENALAPRIL MALEATE" price="210.42" buyer="Jonathan Rodriguez" />
+  <Product name="Burn Jel" price="209.57" buyer="Kathy Gilbert" />
+  <Product name="Dover Aminophen" price="192.07" buyer="Jonathan Rodriguez" />
+  <Product name="Stila Hydrating Primer Oil-Free SPF 30" price="179.28" buyer="Patricia Cooper" />
+  <Product name="MOIST MOISTURE SKIN TONER" price="152.43" buyer="Fred Barnes" />
+  <Product name="Warfarin Sodium" price="138.83" buyer="Jonathan Rodriguez" />
+  <Product name="U-max Multi BB" price="137.16" buyer="Jean Henry" />
+  <Product name="Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius" price="135.82" buyer="Ann Stevens" />
+  <Product name="Amlodipine Besylate" price="122.57" buyer="Kathy Gilbert" />
+  <Product name="ERYTHROMYCIN Base Filmtab" price="117.84" buyer="Betty Ward" />
+  <Product name="BareMinerals Golden Tan matte" price="110.93" buyer="Thomas Snyder" />
+  <Product name="Allergena" price="109.32" buyer="Sarah Day" />
+  <Product name="Albuterol" price="108.95" buyer="Jennifer Riley" />
+  <Product name="ropinirole hydrochloride" price="103.58" buyer="Chris Mitchell" />
+</products>
