@@ -23,3 +23,4 @@ This is the system in which I'm submiting and testing the exercises - https://ju
 6. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/AdvanceRelations"> EXERCISE: ADVANCED RELATIONS</a> 
 7. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/BestPracticesAndArchitecture"> EXERCISE: BEST PRACTICES AND ARCHITECTURES</a> 
 8. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/XMLProcessing"> EXERCISE: XML PROCESSING</a> 
+9. <a href="https://github.com/Jordan3900/Databases-Advanced---Entity-Framework-Core/tree/master/JsonProcessing"> EXERCISE: JSON PROCESSING</a> 
