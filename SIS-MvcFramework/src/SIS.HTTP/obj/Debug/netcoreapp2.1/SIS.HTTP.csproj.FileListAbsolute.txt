@@ -1,9 +1,0 @@
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.deps.json
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csproj.CoreCompileInputs.cache
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfoInputs.cache
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfo.cs
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
-C:\Development\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
