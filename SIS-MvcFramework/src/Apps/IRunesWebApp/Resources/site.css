@@ -1,0 +1,87 @@
+﻿body {
+    color: white;
+}
+
+a {
+    color: orange;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+footer {
+    color: black;
+    text-align: center;
+}
+
+.top-border-line {
+    margin-top: 5px;
+}
+
+.text-color-green {
+    color: green;
+}
+
+.clear-display-flex {
+    display:block;
+}
+
+.text-color-orange{
+    color:orange
+}
+
+.display-flex {
+    display: flex;
+}
+
+.bottom-border-line {
+    margin-top: 20px;
+}
+
+.heading-container {
+    border-bottom: solid;
+    border-color: white;
+    padding-top: 10px;
+}
+
+.primary-separator {
+    border-top: solid;
+    border-color: green;
+    margin-bottom: 10px;
+}
+
+.bottom-buffer-md {
+    margin-bottom: 15px;
+}
+
+.bottom-buffer-xs {
+    margin-bottom: 10px;
+}
+
+.navbar {
+    background-color: green; 
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: white;
+}
+
+.navbar-brand {
+    color: whitesmoke;
+}
+
+.jumbotron {
+    background-color: green;
+}
+

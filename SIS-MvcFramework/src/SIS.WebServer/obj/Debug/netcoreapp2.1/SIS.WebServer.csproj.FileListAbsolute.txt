@@ -1,0 +1,12 @@
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Development\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
